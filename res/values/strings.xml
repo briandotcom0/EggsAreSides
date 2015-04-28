@@ -3,5 +3,15 @@
 
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">EggsAreSides</string>
-
+	<string name="newExercise">Random Exercise</string>
+	<string name="equip">Select Equipmemt</string>
+	<string name="jumprope">Jump Rope</string>
+	<string name="strechband">Strech Band (loop)</string>
+	<string name="exerciseband">Exercise Band (with handles)</string>
+	<string name="kettle">Kettle Bell</string>
+	<string name="dumbell">Dumbbell</string>
+	<string name="pullbar">Pullup Bar</string>
+	<string name="atlas">Atlas Stone</string>
+	<string name="medicine">Medicine Ball</string>
+	
 </resources>

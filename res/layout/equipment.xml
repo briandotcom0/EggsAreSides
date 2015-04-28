@@ -1,0 +1,119 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/jumprope"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/jumprope"/>
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/strechband"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/strechband"/>
+	</LinearLayout>
+		
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/exerciseband"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/exerciseband"/>
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/dumbell"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/dumbell"/>
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/kettle"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/kettle"/>
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/pullbar"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/pullbar"/>
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/atlas"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/atlas"/>
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/medicine"/>
+		<Switch
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/medicine"/>
+	</LinearLayout>
+	
+	
+</LinearLayout>
