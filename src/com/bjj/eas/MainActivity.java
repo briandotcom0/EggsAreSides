@@ -6,6 +6,12 @@ import android.view.*;
 import android.widget.*;
 import org.apache.commons.logging.*;
 
+/*todo
+	yoga ball
+	muscle groups
+	moar exercises
+*/
+
 public class MainActivity extends Activity
 {
 	private int equip=0;
